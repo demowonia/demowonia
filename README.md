@@ -21,6 +21,15 @@ Networking	CCNA-level knowledge
 🎨 Leveling up my frontend skills
 ⚙️ Starting on backend and deployment
 💡 Planning unique projects to fill this profile (stay tuned!)
+<!-- ## 📊 GitHub stats Remove this comment wrapper once you have a few public repos, and replace YOUR_USERNAME with your GitHub username. <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=f06292&icon_color=ffb7d1&text_color=8b3a62&bg_color=fff4f8" alt="GitHub stats"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=f06292&text_color=8b3a62&bg_color=fff4f8" alt="Top languages"/> </p> -->
+💬 Let's connect
+
+I love meeting people who are into code, security, or blockchain. Come say hi on LinkedIn!
+
+<p align="center"> <i>"Every expert was once a beginner who kept going."</i> 🌸 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" alt="footer wave"/> </p>
+🎨 Leveling up my frontend skills
+⚙️ Starting on backend and deployment
+💡 Planning unique projects to fill this profile (stay tuned!)
 
 💬 Let's connect
 
