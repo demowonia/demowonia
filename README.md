@@ -1,6 +1,6 @@
 
 <p align="center"> <img src="./banner.gif" alt="Pixel art sakura banner" width="100%"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/ines-bedad-12111035b/"> <img src="https://img.shields.io/badge/LinkedIn-Ines%20Bedad-f06292?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <img src="https://img.shields.io/badge/Based%20in-Algiers%2C%20Algeria-ffb7d1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=EC4C8A&center=true&vCenter=true&width=600&lines=Hello+world!+%F0%9F%8C%B8;CS+student+at+ESI-Alger;Learning+in+public%2C+building+for+real;Breaking+things+to+understand+them" alt="Typing animation"/> </p>
-##🌸 About me
+**🌸 About me**
 
 Hey, I'm Ines! I'm a second-year computer science student at ESI-Alger, and I'm the kind of person who learns best by building things and poking at how they work.
 
