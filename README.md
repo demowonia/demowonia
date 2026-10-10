@@ -27,7 +27,3 @@ Networking	CCNA-level knowledge
 I love meeting people who are into code, security, or blockchain. Come say hi on LinkedIn!
 
 <p align="center"> <i>"Every expert was once a beginner who kept going."</i> 🌸 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" alt="footer wave"/> </p>
-
-I love meeting people who are into code, security, or blockchain. Come say hi on LinkedIn!
-
-<p align="center"> <i>"Every expert was once a beginner who kept going."</i> 🌸 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" alt="footer wave"/> </p>
